@@ -52,6 +52,7 @@ p {
   margin: 0 auto;
   padding: 0 2.4rem;
 }
+
 /*Header*/
 header {
   width: 100%;
@@ -154,7 +155,7 @@ header {
 .hero {
   width: 100%;
   height: 100vh;
-  background: url("../images 2/11.jpg") center no-repeat;
+  background: url("../img/11.jpg") center no-repeat;
   background-size: cover;
   display: flex;
   align-items: center;
@@ -345,7 +346,7 @@ header {
 
 /*Tastefull Recipes*/
 .tasteful-recipes {
-  background: url("../images 2/7.jpg") center no-repeat;
+  background: url("../img/7.jpg") center no-repeat;
   background-size: cover;
 }
 
@@ -370,7 +371,7 @@ header {
 /*The perfect blend*/
 
 .perfect-blend {
-  background: url("../images\ 2/9.jpg") center no-repeat;
+  background: url("../img/9.jpg") center no-repeat;
   background-size: cover;
 }
 
@@ -464,7 +465,7 @@ footer {
   color: var(--main-font-color-dark);
   cursor: pointer;
   font-size: 1.6rem;
-  padding: 1px 0.6rem;
+  padding: 1px 0.2rem;
   position: absolute;
   top: 50%;
   transform: translateY(-50%);
