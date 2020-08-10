@@ -155,7 +155,7 @@ header {
 .hero {
   width: 100%;
   height: 100vh;
-  background: url("../img/11.jpg") center no-repeat;
+  background: url("../img/11.png") center no-repeat;
   background-size: cover;
   display: flex;
   align-items: center;
@@ -356,7 +356,7 @@ header {
 
 /*Tastefull Recipes*/
 .tasteful-recipes {
-  background: url("../img/7.jpg") center no-repeat;
+  background: url("../img/25.png") center no-repeat;
   background-size: cover;
 }
 
@@ -381,7 +381,7 @@ header {
 /*The perfect blend*/
 
 .perfect-blend {
-  background: url("../img/9.jpg") center no-repeat;
+  background: url("../img/26.png") center no-repeat;
   background-size: cover;
 }
 
